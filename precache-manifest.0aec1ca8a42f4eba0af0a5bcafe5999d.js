@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/firebase_react/static/css/main.ab3a9770.chunk.css"
   },
   {
-    "revision": "337c1eca8b7cf9e96623be3da6f9e16c",
+    "revision": "ba55d1b9af4520a11f71b06e9c18508d",
     "url": "/firebase_react/index.html"
   }
 ];
